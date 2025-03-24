@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+  margin: 10px;
+  border: 2px solid #1e90ff;
+  border-radius: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  background: #1e90ff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #007acc;
+}
+
+.weather-card {
+  background: #1e90ff;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.news-section {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.news-card {
+  background: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+  color: red;
+}
