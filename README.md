@@ -55,3 +55,6 @@ Wind Speed (m/s)
 Weather Icon
 
 If the city is not found, an error message is displayed.
+
+🌤️ Conclusion
+This Weather App provides an easy way for users to check live weather conditions for any city. It demonstrates API integration, React state management, and modern frontend development practices. 🚀
