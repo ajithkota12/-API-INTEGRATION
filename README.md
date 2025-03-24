@@ -149,6 +149,8 @@ Used React State (useState) to dynamically update the weather info.
 ![Image](https://github.com/user-attachments/assets/5f02d569-5298-4836-971b-df8b19bb911e)
 
 
+
+
 ![Image](https://github.com/user-attachments/assets/7d76ec34-8013-42ee-b0da-8e041b90ed73)
 
 #
