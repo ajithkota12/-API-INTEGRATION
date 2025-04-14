@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import moment from "moment";
 
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-const API_KEY = "4b02a98bd83ea148e7617d7a7b6e3af0"; // Use your own API key
+const API_KEY = ""; // Use your own API key
 
 function Weather() {
   const [city, setCity] = useState("");
